@@ -9,3 +9,5 @@ Developer : Santhosh
 3. Last seen code
 
 4. Attachments (Image, Audio, Video) code
+
+Hiding last seen 
